@@ -11,47 +11,47 @@ const zucchine = [
   {
     name: "Zucchino romanesco",
     weight: "50",
-    lengthZucchina: "15"
+    lengthZucchina: "18"
   },
   {
     name: "Zucchino ortolano di Faenza",
     weight: "125",
-    lengthZucchina: "15"
+    lengthZucchina: "12"
   },
   {
     name: "Zucchina lunga fiorentina",
     weight: "72",
-    lengthZucchina: "15"
+    lengthZucchina: "13"
   },
   {
-    name: "Zucchina striata di Napoli",
+    name: "Zucchina siciliano",
     weight: "300",
-    lengthZucchina: "15"
+    lengthZucchina: "30"
   },
   {
     name: "Zucchina bianca triestina",
     weight: "83",
-    lengthZucchina: "15"
+    lengthZucchina: "14"
   },
   {
     name: "Zucchina rigata pugliese",
     weight: "55",
-    lengthZucchina: "15"
+    lengthZucchina: "16"
   },
   {
     name: "Zucchino tondo di Piacenza",
     weight: "92",
-    lengthZucchina: "15"
+    lengthZucchina: "12"
   },
   {
     name: "Zucchino tondo di Nizza",
     weight: "89",
-    lengthZucchina: "15"
+    lengthZucchina: "14"
   },
   {
     name: "Zucchino tondo di Firenze",
     weight: "85",
-    lengthZucchina: "15"
+    lengthZucchina: "17"
   }
 ];
 
