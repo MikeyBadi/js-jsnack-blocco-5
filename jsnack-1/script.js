@@ -64,4 +64,4 @@ for(let singleWeight of zucchine){
 }
 console.log(zucchineWeight);
 
-document.querySelector(".result").innerHTML=`Il peso totale di tutte le zucchine è ${zucchineWeight} grammi.`
+document.querySelector(".result").innerHTML=`Il peso totale di tutte le zucchine è ${zucchineWeight} grammi.`;
